@@ -1,0 +1,9 @@
+{
+	"name": "pricelist",
+	"packageManager": "yarn@4.2.2",
+	"private": true,
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"sharp": "^0.33.5"
+	}
+}
